@@ -1,0 +1,1 @@
+export const baseUrlChart = 'http://localhost:8080/test/dashboard/'
